@@ -19,7 +19,7 @@ With capabilities (each represented by separate endpoint):
 <li>open the browser in the page http: // localhost: 8080 / h2web /, connect to the database with the next params:
 <ul>
 <li>Driver Class: org.h2.Driver</li>
-<li>JDBC URL: jdbc:h2:~/app_db</li>
+<li>JDBC URL: jdbc:h2:~/h2/app_db</li>
 <li>User Name: sa</li>
 </ul>
 </li>
